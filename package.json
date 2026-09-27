@@ -1,0 +1,16 @@
+{
+  "author": {
+    "email": "hello@rayg.do",
+    "name": "Ray Guzman"
+  },
+  "description": "My package description",
+  "name": "spline-watermark-remover-proxy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RayGGuzman/Spline-Watermark-Remover-Proxy"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "0.0.0"
+}
